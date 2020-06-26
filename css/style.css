@@ -9187,7 +9187,7 @@ textarea.form-control {
   padding-top: 0; }
 
 .ftco-no-pb {
-  padding-bottom: 0; }
+  padding-bottom: 6em; }
 
 .ftco-footer {
   font-size: 16px;
@@ -9476,6 +9476,7 @@ textarea.form-control {
   opacity: 0; }
 
 #section-counter {
+  padding: 6em;
   position: relative;
   z-index: 0; }
   #section-counter:after {
@@ -9500,7 +9501,7 @@ textarea.form-control {
     bottom: 0;
     content: '';
     opacity: 0;
-    background: #b7472a;
+    background: #07868b;
     z-index: -1; }
     @media (min-width: 992px) {
       .ftco-counter .overlay {
@@ -9511,13 +9512,13 @@ textarea.form-control {
   .ftco-counter .text strong.number {
     font-weight: 500;
     font-size: 40px;
-    color: #b7472a;
+    color: #07868b;
     font-style: italic; }
   .ftco-counter .text span {
     display: block;
     font-size: 16px;
     font-weight: 500;
-    color: rgba(0, 0, 0, 0.8);
+    color: #000000;
     margin-bottom: 10px;
     line-height: 1.2;
     margin-bottom: 0;
@@ -10075,3 +10076,4 @@ textarea.form-control {
     .instagram-photo .insta-item .inside-text h5 {
       font-size: 14px;
     }    
+  
