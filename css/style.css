@@ -8022,7 +8022,8 @@ h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
   color: black;
-  font-weight: 400; }
+  font-weight: 400;
+  color: #07868b; }
 
 .wrap {
   position: relative;
@@ -9668,16 +9669,16 @@ textarea.form-control {
 
 .contactForm .form-control {
   height: 36px;
-  background:  #07868B;
-  color:  #07868B;
+  background:  #000000;
+  color:  #000000;
   font-size: 14px;
   border-radius: 2px;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-  border-bottom: 1px solid  #07868B; }
+  border-bottom: 1px solid  #000000; }
   .contactForm .form-control::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
-    color:  #07868B!important; }
+    color:  #000000!important; }
   .contactForm .form-control::-moz-placeholder {
     /* Firefox 19+ */
     color: rgba(0, 0, 0, 0.5) !important; }
