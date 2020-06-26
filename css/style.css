@@ -7162,7 +7162,7 @@ button.bg-dark:focus {
   .px-md-4 {
     padding-left: 1.5rem !important; }
   .p-md-5 {
-    padding: 3rem !important; }
+    padding: 5rem !important; }
   .pt-md-5,
   .py-md-5 {
     padding-top: 3rem !important; }
@@ -9635,7 +9635,8 @@ textarea.form-control {
       margin-bottom: 25px !important;
       padding: 0 20px; } }
   .dbox p {
-    margin-bottom: 0; }
+    margin-bottom: 0; 
+    color: #07868B;}
     .dbox p span {
       font-weight: 500;
       color: #000000; }
@@ -9667,16 +9668,16 @@ textarea.form-control {
 
 .contactForm .form-control {
   height: 36px;
-  background: #fff;
-  color: rgba(0, 0, 0, 0.5);
+  background:  #07868B;
+  color:  #07868B;
   font-size: 14px;
   border-radius: 2px;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
+  border-bottom: 1px solid  #07868B; }
   .contactForm .form-control::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
-    color: rgba(0, 0, 0, 0.5) !important; }
+    color:  #07868B!important; }
   .contactForm .form-control::-moz-placeholder {
     /* Firefox 19+ */
     color: rgba(0, 0, 0, 0.5) !important; }
@@ -9687,7 +9688,7 @@ textarea.form-control {
     /* Firefox 18- */
     color: rgba(0, 0, 0, 0.5) !important; }
   .contactForm .form-control:focus, .contactForm .form-control:active {
-    border-color: #b7472a !important; }
+    border-color:  #07868B !important; }
 
 .contactForm textarea.form-control {
   height: inherit !important; }
