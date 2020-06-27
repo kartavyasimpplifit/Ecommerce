@@ -9177,11 +9177,11 @@ textarea.form-control {
   font-size: 24px; }
 
 .ftco-section {
-  padding: 6em 0;
+  padding: 4em 0;
   position: relative; }
   @media (max-width: 767.98px) {
     .ftco-section {
-      padding: 6em 0; } }
+      padding: 4em 0; } }
 
 .ftco-no-pt {
   padding-top: 0; }
@@ -10197,3 +10197,6 @@ textarea.form-control {
     .pad-bottom-100{
       padding-bottom: 90px;
     }
+    .gal-container {
+      padding: 12px;
+  }
