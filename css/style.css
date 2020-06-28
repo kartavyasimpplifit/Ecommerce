@@ -9847,7 +9847,9 @@ textarea.form-control {
     font-size: 22px;
     margin-bottom: 20px;
     font-weight: 500; }
-
+.sidebar-box .categories :hover{
+  color: #07868b;
+}
 .categories li, .sidelink li {
   position: relative;
   margin-bottom: 10px;
