@@ -9718,7 +9718,7 @@ textarea.form-control {
     .block-21 .text .heading a {
       color: #000000; }
       .block-21 .text .heading a:hover, .block-21 .text .heading a:active, .block-21 .text .heading a:focus {
-        color: #b7472a; }
+        color: #07686b; }
   .block-21 .text .meta > div {
     display: inline-block;
     font-size: 12px;
@@ -9848,7 +9848,7 @@ textarea.form-control {
     margin-bottom: 20px;
     font-weight: 500; }
 .sidebar-box .categories :hover{
-  color: #07868b;
+  color: #07686b;
 }
 .categories li, .sidelink li {
   position: relative;
