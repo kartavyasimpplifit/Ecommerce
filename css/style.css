@@ -10200,3 +10200,33 @@ textarea.form-control {
     .gal-container {
       padding: 12px;
   }
+  .font-alt {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #fff;
+    text-align: center;
+    padding-top: 4em;
+  } 
+  .titan-title-size-4 {
+    letter-spacing: 24px;
+    font-weight: 400;
+    font-size: 48px;
+    text-align: center;
+    padding-top: 3em;
+  }
+  .mt-30 {
+    margin-top: 30px !important;
+}
+.btn.btn-border-w {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.75);
+  color: #fff;
+  text-align: center;
+}
+
+.btn.btn-border-w:hover,
+.btn.btn-border-w:focus {
+  background: #07868b;
+  border-color: transparent;
+  color: #fff;
+}
