@@ -244,3 +244,7 @@ textarea {
                                       content: '';
                                       opacity: .4;
                                       background: #000000; }                              
+                .forgot a{
+                  color:#fff ;
+                  text-decoration: none;
+                }
