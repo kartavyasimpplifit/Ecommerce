@@ -10231,3 +10231,9 @@ textarea.form-control {
   border-color: transparent;
   color: #fff;
 }
+.foods li{
+  color: #000000;
+  font-weight: bold;
+  font-size: 18px;
+  font-style: inherit;
+}
