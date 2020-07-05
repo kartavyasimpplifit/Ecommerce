@@ -10236,4 +10236,5 @@ textarea.form-control {
   font-weight: bold;
   font-size: 18px;
   font-style: inherit;
+  padding-bottom: 2px;
 }
