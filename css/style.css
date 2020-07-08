@@ -10237,3 +10237,10 @@ textarea.form-control {
   font-style: inherit;
   padding-bottom: 2px;
 }
+hero-wrap h1{
+  color:rgba(238, 238, 238, 0.952);
+  text-align: center;
+  padding-top:150px;
+  font-size: 60px;
+  font-family: "Pacifico";
+}
