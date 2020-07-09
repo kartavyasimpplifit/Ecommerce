@@ -10,21 +10,34 @@
 </head>
 
 <body>
-  <main id="main-holder">
+  <div class="hero-wrap" style="background-image: url('images/bg_3.jpg');" data-stellar-background-ratio="0.5">
+    <div class="container">
+
+      <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+        <div class="overlay"></div>
+        <div class="container">
+          <a class="navbar-brand" href="index.html">Simplifit.Eat</a>
+        </div>
+      </nav>
+  <!-- <main id="main-holder"> -->
     <h1 id="login-header">Login</h1>
-    
-    <div id="login-error-msg-holder">
-      <p id="login-error-msg">Invalid username <span id="error-msg-second-line">and/or password</span></p>
-    </div>
     
     <form id="login-form">
       <input type="text" name="username" id="username-field" class="login-form-field" placeholder="Username">
       <input type="password" name="password" id="password-field" class="login-form-field" placeholder="Password">
-     <input type="submit" value="Login" id="login-form-submit" >
+     <input type="submit" value="Login" id="login-form-submit">
+     <p>New user?</p>
+     <input type="submit" value="Get started and Sign Up?" id="signup-form">
    
     </form>
+
+    <div id="login-error-msg-holder">
+      <p id="login-error-msg">Invalid username <span id="error-msg-second-line">and/or password</span></p>
+    </div>
   
-  </main>
+  <!-- </main> -->
+</div>
+  </div>
 </body>
 
 </html>
